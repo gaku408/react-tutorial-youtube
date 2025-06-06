@@ -2,4 +2,6 @@
 
 ### この動画を見ながらコードを複写
 
+
 https://www.youtube.com/watch?v=nRCNL9T3J98
+
